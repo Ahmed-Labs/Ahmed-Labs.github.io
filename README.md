@@ -16,3 +16,7 @@
 
 ### Activity 4
 ![Activity 4 Screenshot](screenshots/activity_4.png)
+
+### Activity 5
+![Activity 5A Screenshot](screenshots/activity_5_a.png)
+![Activity 5B Screenshot](screenshots/activity_5_b.png)
